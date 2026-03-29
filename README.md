@@ -19,7 +19,7 @@ Baixe o arquivo meu codigo.py
 Abra o terminal
 Execute o comando: python meu codigo.py
 
-## Respostas dos exercícios:
+## Respostas:
 
 A: 20
 B: media: 7.8
