@@ -15,9 +15,9 @@ G: Salário final
 
 ## forma de executar o código
 
-Baixe o arquivo meu código.py
+Baixe o arquivo meu codigo.py
 Abra o terminal
-Execute o comando: python meu código.py
+Execute o comando: python meu codigo.py
 
 ## Respostas dos exercícios:
 
